@@ -1,6 +1,6 @@
 - 👋 Olá, sou João Franczak.
-- 👀 Estou interessado em estagiar como desenvolvedor web.
-- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas, e focando em aprender CSS3, HTML5 e JS
+- 👀 Estou interessado em estagiar como desenvolvedor.
+- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas
 - 📫 Esse é o meu email de contato: franczak.joao@gmail.com
 
 <!---
